@@ -1,0 +1,2 @@
+-r src/ss_nt_mpe_rc/requirements.txt
+setuptools<70

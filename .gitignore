@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+src/ss_nt_mpe_rc/
+runs/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.wav
+*.log
